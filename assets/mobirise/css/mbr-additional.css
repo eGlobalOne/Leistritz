@@ -17,19 +17,19 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.88rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -59,14 +59,14 @@ body {
     line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.12rem;
@@ -1026,6 +1026,8 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-s2b0tb94bl {
+  padding-top: 120px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/fondo-banner-1920x954.png");
 }
 .cid-s2b0tb94bl .media-content {
@@ -1738,7 +1740,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-s4KS0lJitI {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #005db4;
 }
@@ -1752,7 +1754,7 @@ section.lazy-placeholder:after {
   /* Type valid CSS here */
 }
 #custom-html-21 div {
-  padding: 70px 0;
+  padding: 40px 0;
   color: #ffffff;
   text-align: center;
 }
