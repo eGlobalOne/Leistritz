@@ -1031,6 +1031,9 @@ section.lazy-placeholder:after {
     width: 80%;
   }
 }
+.cid-s26VvYJr1l media (max-width: 767px) .navbar.navbar-short .navbar-logo a img {
+  height: auto !important;
+}
 .cid-s2b0tb94bl {
   padding-top: 120px;
   padding-bottom: 15px;
